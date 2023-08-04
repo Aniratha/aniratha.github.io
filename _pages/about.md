@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:  Frank Fischer, Robert Jäschke, Elena Krotova, Michel Schwab, Jannik Strötgen 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Gerardus_Johannes_Vossius_(1577-1649),_by_Anonymous.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
