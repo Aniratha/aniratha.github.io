@@ -27,7 +27,7 @@ of three parts: a source (in our example “Steve Jobs”) serves as paragon to 
 by applying a modifier (“of Beer”) that provides the corresponding context. VA is named after Gerardus Vossius (1577– 1649), 
 the Dutch classical scholar and author of rhetorical textbooks, who first distinguished and described VA as a separate phenomenon.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
