@@ -1,8 +1,6 @@
 ---
 ---
 <!-- _layouts/bib.html -->
-
-{% include carousel.html height="50" unit="%" duration="7" images=gallery_a %}
       <div class="row">
         <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
@@ -236,6 +234,6 @@
         
       </div>
       
-      
+       {% include carousel.html height="50" unit="%" duration="7" images=gallery_a %}
 
   		<!-->{% include carousel.html height="50" unit="%" duration="7" number="2" %} -->
