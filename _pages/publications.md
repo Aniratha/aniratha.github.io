@@ -13,6 +13,3 @@ nav_order: 1
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
-
-
-<!-->gallery_a: [ nyt_vossantos_over_time_rel.png, nyt_sources_over_time.png, nyt_vossantos_over_time_rel2.png ]-->
